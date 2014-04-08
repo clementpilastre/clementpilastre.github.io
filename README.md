@@ -1,4 +1,5 @@
 clementpilastre.github.io
+=========================
 
 Learning some Git magic... nothing too fancy
 
@@ -11,4 +12,3 @@ https://github.com/clementpilastre/clementpilastre.github.io/
 And, soon, you can see my customized homepage at:
 
 http://clementpilastre.github.io/
-=========================
